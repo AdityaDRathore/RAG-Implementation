@@ -151,3 +151,9 @@ cython_debug/
 Icon
 # Desktop Services Store
 .DS_Store
+
+#ChromaDB
+.chroma/
+
+#vectorstore
+data/vector_store/
